@@ -177,9 +177,4 @@ pizza_sales_report_dashboard/
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-*Created with ❤️ for Data-Driven Decision Making in Restaurant Analytics.*
